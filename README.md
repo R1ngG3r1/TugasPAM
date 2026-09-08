@@ -1,5 +1,4 @@
 # Tugas Pengembangan Aplikasi Mobile
-
 Repository ini berisi kumpulan tugas Pengembangan Aplikasi Mobile (PAM) selama satu semester.
 
 ## Identitas
@@ -7,7 +6,7 @@ Repository ini berisi kumpulan tugas Pengembangan Aplikasi Mobile (PAM) selama s
 Nama: Hafidz Raihan Putra Anfa  
 NIM: 124140108  
 Kelas: RB  
-Teknik, Informatika Institut Teknologi Sumatera
+Teknik Informatika, Institut Teknologi Sumatera
 
 ## Daftar Tugas
 
