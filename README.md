@@ -1,5 +1,5 @@
-# Tugas Pengembangan Aplikasi Mobile
-Repository ini berisi kumpulan tugas Pengembangan Aplikasi Mobile (PAM) selama satu semester.
+# Tugas Praktikum Pengembangan Aplikasi Mobile
+Repository ini berisi kumpulan tugas praktikum Pengembangan Aplikasi Mobile dalam satu semester.
 
 ## Identitas
 
