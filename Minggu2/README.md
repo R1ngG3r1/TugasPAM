@@ -19,6 +19,9 @@ git clone https://github.com/R1ngG3r1/TugasPAM.git
 Hasil Output
 NEWS FEED SIMULATOR
 
+## Contoh Output
+
+```text
 Berita diterima: Mobil Terbang Menggunakan energi Elektromagnetik
 Judul   : Mobil Terbang Menggunakan energi Elektromagnetik
 Sumber  : cnnIndonessia
@@ -39,3 +42,4 @@ Sumber  : Space-x
 Kategori: Teknologi
 Detail berita berhasil diambil
 Jumlah berita dibaca: 3
+```
