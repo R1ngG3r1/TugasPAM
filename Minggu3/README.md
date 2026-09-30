@@ -6,7 +6,7 @@ My Profile App adalah aplikasi sederhana yang dibuat menggunakan Kotlin Multipla
 ### Android
 
 ![Screenshot Android](screenshoots/android.png)
-Coming soon
+(Coming soon)
 
 ### Desktop
 
