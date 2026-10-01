@@ -11,3 +11,5 @@ Teknik Informatika, Institut Teknologi Sumatera
 ## Daftar Tugas
 
 - Minggu 1 — Pengenalan dan Setup Environment
+- Minggu 2 — Advanced Kotlin Coroutines Flow
+- Minggu 3 — Compose Multiplatform Basics
