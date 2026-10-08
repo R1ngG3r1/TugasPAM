@@ -25,28 +25,28 @@ shared/src/commonMain/kotlin/com/example/myprofileapp/
 
 #### Desktop
 
-![Profile View Desktop](screenshots/desktopview.png)
+![Profile View Desktop](screenshoots/desktopview.png)
 
 #### Mobile
 
-![Profile View Mobile](screenshots/Mobileview.jpg)
+![Profile View Mobile](screenshoots/Mobileview.jpg)
 
 ### Edit Profile
 
 #### Desktop
 
-![Edit Profile Desktop](screenshots/desktopedit.png)
+![Edit Profile Desktop](screenshoots/desktopedit.png)
 
 #### Mobile
 
-![Edit Profile Mobile](screenshots/Mobileedit.jpg)
+![Edit Profile Mobile](screenshoots/Mobileedit.jpg)
 
 ### Dark Mode
 
 #### Desktop
 
-![Dark Mode Desktop](screenshots/desktopdark.png)
+![Dark Mode Desktop](screenshoots/desktopdark.png)
 
 #### Mobile
 
-![Dark Mode Mobile](screenshots/Mobiledark.jpg)
+![Dark Mode Mobile](screenshoots/Mobiledark.jpg)
